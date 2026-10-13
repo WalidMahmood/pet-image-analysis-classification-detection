@@ -18,7 +18,8 @@
 [📌 Guidelines Mapping](docs/PROJECT_GUIDELINES_MAPPING.md) •
 [🏗️ Architecture Blueprint](docs/ARCHITECTURE.md) •
 [📊 Benchmark Results](docs/BENCHMARK_RESULTS.md) •
-[🧪 Live Demo Guide](docs/EVALUATION_GUIDE.md)
+[🧪 Live Demo Guide](docs/EVALUATION_GUIDE.md) •
+[👥 Contributors](CONTRIBUTORS.md)
 
 ---
 
