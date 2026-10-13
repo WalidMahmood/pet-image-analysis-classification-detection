@@ -1,0 +1,32 @@
+# CSE428 Oxford-IIIT Pet - Multi-Task U-Net (PyTorch) - 8GB VRAM + Kaggle compatible
+# Bismillah - Research Grade
+
+# --- Core Deep Learning ---
+torch>=2.2.0
+torchvision>=0.17.0
+pytorch-lightning>=2.2.0
+torchmetrics>=1.4.0
+
+# --- Data & Vision ---
+numpy>=1.26.0
+pandas>=2.0.0
+pillow>=10.0.0
+scikit-image>=0.22.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+albumentations>=1.4.0
+opencv-python>=4.9.0
+
+# --- Utilities ---
+tqdm>=4.66.0
+tensorboard>=2.16.0
+
+# --- Optional (Kaggle / bonus) ---
+# segmentation-models-pytorch>=0.3.4  # optional for pretrained backbones if needed
+# timm>=0.9.0
+
+# --- Environment ---
+# CUDA 12.1 for RTX 3050 (driver 610.62) - install via:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# OR for CPU-only fallback: --index-url https://download.pytorch.org/whl/cpu
