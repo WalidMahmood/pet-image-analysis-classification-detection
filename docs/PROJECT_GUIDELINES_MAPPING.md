@@ -2,7 +2,7 @@
 
 > **Course:** CSE428 (Computer Vision & Pattern Recognition / Deep Learning)  
 > **Session:** Summer 2026  
-> **Author:** Walid Mahmood  
+> **Authors:** Walid Mahmood, Sayma Shahid ([@Sayma34](https://github.com/Sayma34))  
 > **Repository:** [pet-image-analysis-classification-detection](https://github.com/WalidMahmood/pet-image-analysis-classification-detection.git)  
 > **Reference Guidelines:** [`CSE428 Summer 26 Project Guidelines.pdf`](../CSE428%20Summer%2026%20Project%20Guidelines.pdf)
 

@@ -439,9 +439,16 @@ The demo notebook [`CSE428_Model_Evaluator_Demo.ipynb`](notebooks/final%20execut
 
 ---
 
+## 👥 Authors & Contributors
+
+* **Walid Mahmood** — GitHub: [@WalidMahmood](https://github.com/WalidMahmood) • Email: `walid.mahmood@g.bracu.ac.bd`
+* **Sayma Shahid** — GitHub: [@Sayma34](https://github.com/Sayma34) • Email: `saymashahid34@gmail.com`
+
+---
+
 ## 📄 License & Acknowledgments
 
-* **Author:** Walid Mahmood
 * **Course:** CSE428 (Computer Vision & Pattern Recognition / Deep Learning)
 * **Code License:** Released under the [MIT License](LICENSE).
 * **Dataset License:** Oxford-IIIT Pet Dataset is provided by the Visual Geometry Group (VGG), University of Oxford for research and educational purposes.
+
